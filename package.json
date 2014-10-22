@@ -1,0 +1,7 @@
+{
+  "name": "INF4375.Semaine07",
+  "version": "0.0.1",
+  "dependencies": {
+    "jsonschema": "1.0.0"
+  }
+}
